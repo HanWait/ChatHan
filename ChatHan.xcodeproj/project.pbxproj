@@ -288,7 +288,6 @@
 				TargetAttributes = {
 					9B3B82681FE40F8F003F9626 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 27X6K7M45Z;
 						ProvisioningStyle = Automatic;
 					};
 					9B3B82811FE40F8F003F9626 = {
@@ -525,7 +524,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 27X6K7M45Z;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = ChatHan/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -538,7 +537,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 27X6K7M45Z;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = ChatHan/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
